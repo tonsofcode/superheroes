@@ -1,5 +1,5 @@
 {
   "name": "IronMan",
-  "status": "",
-  "skills": []
+  "status": "Active",
+  "skills": ["power shots", "fly"]
 }

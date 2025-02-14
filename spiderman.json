@@ -1,5 +1,5 @@
 {
   "name": "SpiderMan",
-  "status": "",
-  "skills": []
+  "status": "Active",
+  "skills": ["web shooting", "wall crawling"]
 }
